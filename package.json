@@ -1,0 +1,25 @@
+{
+  "name": "cc-size",
+  "version": "1.0.0",
+  "description": "How much conversation history have you accumulated? Total disk usage and growth rate of your Claude Code sessions.",
+  "type": "module",
+  "bin": {
+    "cc-size": "./cli.mjs"
+  },
+  "scripts": {
+    "start": "node cli.mjs"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "ai",
+    "developer-tools",
+    "analytics",
+    "productivity"
+  ],
+  "author": "yurukusa",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
