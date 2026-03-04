@@ -55,4 +55,4 @@ Drop your `~/.claude` folder into [cc-size on the web](https://yurukusa.github.i
 
 ---
 
-Part of [cc-toolkit](https://yurukusa.github.io/cc-toolkit/) — 53 free tools for Claude Code
+Part of [cc-toolkit](https://yurukusa.github.io/cc-toolkit/) — 60 free tools for Claude Code
